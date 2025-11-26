@@ -6,3 +6,4 @@ Develop a report to track revenue trends, analyze bookings by property and platf
 # Skills Used
 * Data manipulation and cleaning
 * Pivot tables
+* Aggregation functions
